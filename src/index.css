@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import "./styles/font.css";
+
+@theme{
+--color-main:#131315;
+--color-section:#1d1d21;
+--color-btn:#fd366e;
+--color-white:#f5f5f5;
+--color-btn-hover:#ca2b58;
+
+--font-pregular:Poppins-Regular;
+--font-pbold:Poppins-Bold;
+--font-psemibold:Poppins-SemiBold;
+--font-pmedium:Poppins-Medium;
+--font-pblack:Poppins-Black;
+
+}
+
+body{
+   @apply bg-main text-white font-pregular
+}
