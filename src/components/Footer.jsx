@@ -27,6 +27,7 @@ export default function Footer() {
         <div>
           <h3 className="text-white font-semibold mb-3">Contact</h3>
           <p className="text-sm leading-relaxed">
+            Purushottam kapsikar<br/>
             At Post Kapsi Bk<br />
             Tq Loha, Dist Nanded<br />
             Maharashtra – 431602
